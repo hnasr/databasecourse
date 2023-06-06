@@ -2,6 +2,7 @@
 
 # Navigate to your git repository directory if needed
 # cd /path/to/your/git/repo
+cd /Users/HusseinNasser/projects/courses/databasecourse
 git pull
 
 
